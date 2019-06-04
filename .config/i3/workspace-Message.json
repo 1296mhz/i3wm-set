@@ -1,0 +1,23 @@
+// vim:ts=4:sw=4:et
+{
+    "border": "normal",
+    "current_border_width": 0,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 731,
+       "width": 1366,
+       "x": 0,
+       "y": 37
+    },
+    "name": "Telegram (1282)",
+    "percent": 1,
+    "swallows": [
+       {
+       // "class": "^TelegramDesktop$",
+       // "instance": "^Telegram$",
+       // "title": "^Telegram\\ \\(1282\\)$"
+       }
+    ],
+    "type": "con"
+}
+
